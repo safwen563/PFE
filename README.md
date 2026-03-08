@@ -1,4 +1,3 @@
-# PFE
 # NexaCRM — Project Architecture
 # PFE 2026 | SOTETEL
 
